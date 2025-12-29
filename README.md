@@ -14,7 +14,7 @@ This dashboard enables HR teams and business leaders to make <strong>data-driven
 
 <div>
   <div class="separator" style="clear: both; text-align: center;">
-    <a href="HR-Data_Dashbord.png" style="margin-left: 1em; margin-right: 1em;">
+    <a href="HR Data Dashbord/HR-Data_Dashbord.png"  style="margin-left: 1em; margin-right: 1em;">
       <img 
         border="0" 
         src="HR-Data_Dashbord.png" 
